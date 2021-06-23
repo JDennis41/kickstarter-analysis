@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+The purpose of the analysis is to provide Louise with information about how other theater campaigns managed in relation to their launch date and funding goals. The information provided will aid Louise in making appropriate decisions regarding her own play. 
 
 ## Analysis and Challenges
 
